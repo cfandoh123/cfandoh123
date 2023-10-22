@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **flutter & swift**
 
-- 💬 Ask me about **Machine Learning, Soccer & Swimming**
+- 💬 Ask me about **video games, soccer & TV shows**
 
 - 📫 How to reach me **ca0977@princeton.edu**
 
