@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ca0977@princeton.edu**
 
-- ⚡ Fun fact **Soccer is my Plan B!**
+- ⚡ Fun fact **I aspire to be a professional soccer player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
