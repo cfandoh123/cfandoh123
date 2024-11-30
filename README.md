@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **AI microprocessors**
 
-- 🌱 I’m currently learning **flutter & swift**
+- 🌱 I’m currently learning **Advanced Graph Algorithms**
 
 - 💬 Ask me about **video games, soccer & TV shows**
 
