@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/calvinandoh" target="blank"><img src="https://img.shields.io/twitter/follow/calvinandoh?logo=twitter&style=for-the-badge" alt="calvinandoh" /></a> </p>
 
-- 🔭 I’m currently working on **AI microprocessors**
+- 🔭 I’m currently working on building **AI agents**
 
-- 🌱 I’m currently learning **Advanced Graph Algorithms**
+- 🌱 I’m currently learning **quantitative finance**
 
 - 💬 Ask me about **video games, soccer & TV shows**
 
