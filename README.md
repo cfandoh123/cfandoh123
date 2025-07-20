@@ -1,4 +1,3 @@
-[![MasterHead](https://drive.google.com/file/d/1UyZnIKNKgJ0IgbMEIFdWTbbK_H_VCgVE/view?usp=drive_link)]
 <h1 align="center">Hi 👋, I'm Calvin Andoh</h1>
 <h3 align="center">An aspiring Software Engineer </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
