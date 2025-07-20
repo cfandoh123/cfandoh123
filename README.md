@@ -23,7 +23,6 @@
 <a href="https://kaggle.com/calvinandoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="calvinandoh" height="30" width="40" /></a>
 <a href="https://fb.com/calvin.mandela.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="calvin.mandela.1" height="30" width="40" /></a>
 <a href="https://instagram.com/andohcalvin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andohcalvin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/calvinandoh2767" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="calvinandoh2767" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/calvinandoh3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="calvinandoh3" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/calvinandoh3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="calvinandoh3" height="30" width="40" /></a>
 </p>
