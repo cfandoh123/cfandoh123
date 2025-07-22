@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on building **AI agents**
 
-- 🌱 I’m currently learning **quantitative finance**
+- 🌱 I’m currently exploring the field of **quantitative finance**
 
 - 💬 Ask me about **video games, soccer & TV shows**
 
