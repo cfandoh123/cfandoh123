@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on building **AI agents**
 
-- 🌱 I’m currently exploring the field of **quantitative finance**
+- 🌱 I’m currently exploring the field of **Distributed Systems**
 
 - 💬 Ask me about **video games, soccer & TV shows**
 
 - 📫 How to reach me **ca0977@princeton.edu**
 
-- ⚡ Fun fact **I aspire to be a professional soccer player**
+- ⚡ Fun fact **I am an avid sports person. I am interested and play any form of game (physical or video)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
