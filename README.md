@@ -6,8 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/calvinandoh" target="blank"><img src="https://img.shields.io/twitter/follow/calvinandoh?logo=twitter&style=for-the-badge" alt="calvinandoh" /></a> </p>
 
-- 🔭 I’m currently working on building **AI agents**
-
 - 🌱 I’m currently exploring the field of **Distributed Systems**
 
 - 💬 Ask me about **video games, soccer & TV shows**
