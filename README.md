@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/calvinandoh" target="blank"><img src="https://img.shields.io/twitter/follow/calvinandoh?logo=twitter&style=for-the-badge" alt="calvinandoh" /></a> </p>
 
-- 🌱 I’m currently exploring the field of **Distributed Systems**
+- 🌱 I’m currently exploring the field of **Distributed Systems & Information Security**
 
 - 💬 Ask me about **video games, soccer & TV shows**
 
